@@ -15,7 +15,7 @@ return [
     ],
     'pdo_mysql' => [
         'driver'     => 'mysql',
-        'database'   => 'lexus',
+        'database'   => 'Laventure',
         'host'       => '127.0.0.1',
         'port'       => '3306',
         'username'   => 'brown',
@@ -28,7 +28,7 @@ return [
     ],
     'pdo_pgsql' => [
         'driver'     => 'pgsql',
-        'database'   => 'lexus',
+        'database'   => 'Laventure',
         'host'       => '127.0.0.1',
         'port'       => '5432',
         'username'   => 'postgres',

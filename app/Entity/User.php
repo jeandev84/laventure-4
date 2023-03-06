@@ -1,7 +1,7 @@
 <?php
 namespace App\Entity;
 
-use Lexus\Component\Database\ORM\Mapper\Collection\ArrayCollection;
+use Laventure\Component\Database\ORM\Mapper\Collection\ArrayCollection;
 
 class User
 {

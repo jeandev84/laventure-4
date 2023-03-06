@@ -2,8 +2,8 @@
 namespace App\Repository;
 
 use App\Entity\User;
-use Lexus\Component\Database\ORM\Mapper\Manager\EntityManager;
-use Lexus\Component\Database\ORM\Mapper\Repository\ServiceRepository;
+use Laventure\Component\Database\ORM\Mapper\Manager\EntityManager;
+use Laventure\Component\Database\ORM\Mapper\Repository\ServiceRepository;
 
 
 /**

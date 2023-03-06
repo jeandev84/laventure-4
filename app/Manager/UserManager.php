@@ -1,7 +1,7 @@
 <?php
 namespace App\Manager;
 
-use Lexus\Component\Database\ORM\Mapper\Manager\Contract\EntityManagerInterface;
+use Laventure\Component\Database\ORM\Mapper\Manager\Contract\EntityManagerInterface;
 
 class UserManager
 {

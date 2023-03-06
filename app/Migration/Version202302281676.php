@@ -1,7 +1,7 @@
 <?php
 namespace App\Migration;
 
-use Lexus\Component\Database\Schema\Migration\Migration;
+use Laventure\Component\Database\Schema\Migration\Migration;
 
 
 class Version202302281676 extends Migration

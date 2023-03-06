@@ -2,7 +2,7 @@
 namespace App\Fixtures;
 
 use DateTime;
-use Lexus\Component\Database\ORM\Mapper\Manager\Contract\ObjectManager;
+use Laventure\Component\Database\ORM\Mapper\Manager\Contract\ObjectManager;
 
 class UserFixtures
 {

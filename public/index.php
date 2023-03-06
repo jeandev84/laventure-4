@@ -1,13 +1,13 @@
 <?php
 
 
-use Lexus\Component\Database\ORM\Manager;
-use Lexus\Component\Routing\Router;
+use Laventure\Component\Database\ORM\Manager;
+use Laventure\Component\Routing\Router;
 
 require_once realpath(__DIR__.'/../vendor/autoload.php');
 
 
-$router = new \Lexus\Component\Routing\Router();
+$router = new \Laventure\Component\Routing\Router();
 $router->domain('http://127.0.0.1:8000');
 $router->namespace('App\\Http\\Controller');
 $router->patterns([
